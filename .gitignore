@@ -5,4 +5,5 @@ _site
 vendor
 
 _posts/
+!_posts/2021-01-13-welcome-to-jekyll.markdown
 _drafts/
